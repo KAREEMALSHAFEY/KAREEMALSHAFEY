@@ -18,7 +18,6 @@ Hi I'm KAREEM_ALSHAFEY I am a backend web developer.
   
 
 - 🔭 I'm a backend developer
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
+- 🔍 I have 1 live apps: 
+  - [Quran-tab (store)]([https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd](https://serviceshoping.com/))
 - 💬 Ask me about **ReactJs and Frontend**
