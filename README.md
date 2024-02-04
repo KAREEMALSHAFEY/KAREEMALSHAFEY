@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm KAREEM 👋</h1>
 <p align="center">
-     <img src="https://img.shields.io/badge/-akrym6674@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/>
+   <a href="mailto:sdey9@uic.edu  ">  <img src="https://img.shields.io/badge/-akrym6674@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/>
   <!--    <a href="https://www.linkedin.com/in/  "><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>-->
   <!--  <a href="https://www.youtube.com/c/  "><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>-->
     <a href="https://www.instagram.com/kareem_alshaf3y"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
